@@ -152,6 +152,11 @@ angle(X,GravityMean)
 angle(Y,GravityMean)
 angle(Z,GravityMean)
 
+SUBJECTID values: 1:30
+Activity values: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING
+Features are normalized and bounded within [-1,1]
+
+
 
 A new dataset is made by taking the average for each subjects measurements for each 
 activity and written to TidyData.txt.
