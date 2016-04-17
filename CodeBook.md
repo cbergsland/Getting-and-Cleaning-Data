@@ -29,8 +29,6 @@ obtained by calculating variables from the time and frequency domain. See
 'features_info.txt' for more details. 
 
 For each record it is provided:
-======================================
-
 - Triaxial acceleration from the accelerometer (total acceleration) and the estimated body
 acceleration.
 - Triaxial Angular velocity from the gyroscope. 
